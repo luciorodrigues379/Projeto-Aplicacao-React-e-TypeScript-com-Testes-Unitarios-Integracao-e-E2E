@@ -1,0 +1,1 @@
+# Projeto-Aplicacao-React-e-TypeScript-com-Testes-Unitarios-Integracao-e-E2E
